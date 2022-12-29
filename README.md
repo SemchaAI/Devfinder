@@ -1,1 +1,1 @@
-# TypeScript курс. Проект GitHub user finder
+# First TS React project for study
