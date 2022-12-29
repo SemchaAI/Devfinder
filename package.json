@@ -4,13 +4,13 @@
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-dom": "^18.2.0"
   },
   "scripts": {
     "start": "set PORT=3333  && react-scripts start",
     "build": "react-scripts build",
-    "component": "generate-react component"
+    "component": "generate-react component",
+    "react-scripts": "^5.0.1"
   },
   "eslintConfig": {
     "extends": [
