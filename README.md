@@ -1,2 +1,1 @@
-# Devfinder
-  First TS  React project for study
+# TypeScript курс. Проект GitHub user finder
